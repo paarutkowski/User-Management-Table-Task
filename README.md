@@ -61,7 +61,7 @@ To get started with this project locally, follow these steps:
 
 ## Deployment
 
-The application is deployed to GitHub Pages. You can view the live site at [URL](https://paruut.github.io/User-Management-Table-Task/).
+The application is deployed to GitHub Pages. You can view the live site at [URL](https://paarutkowski.github.io/User-Management-Table-Task/).
 
 
 
